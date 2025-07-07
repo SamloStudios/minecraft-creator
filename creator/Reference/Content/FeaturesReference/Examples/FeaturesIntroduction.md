@@ -125,7 +125,7 @@ There's more information about behavior packs in the [Introduction to Behavior P
 | [minecraft:structure_template_feature](Features\minecraftStructure_template_feature.md)| Places a structure in the world. The structure must be stored as a .mcstructure file in the "structures" subdirectory of a behavior pack.|
 | [minecraft:tree_feature](Features\minecraftTree_feature.md)| Places a tree in the world.|
 | [minecraft:underwater_cave_carver_feature](Features\minecraftUnderwater_cave_carver_feature.md)| Carves a cave through the world in the current chunk, and in every chunk around the current chunk in an 8 radial pattern.|
-| [minecraft:vegetation_patch_feature](Features\minecraftVegetation_patch_feature.md)| Carves a cave through the world in the current chunk, and in every chunk around the current chunk in an 8 radial pattern.|
+| [minecraft:vegetation_patch_feature](Features\minecraftVegetation_patch_feature.md)| Scatters vegetation in an area within a given radius.|
 | [minecraft:weighted_random_feature](Features\minecraftWeighted_random_feature.md)| Randomly selects and places a feature based on a weight value.|
 
 ## Unsupported features
